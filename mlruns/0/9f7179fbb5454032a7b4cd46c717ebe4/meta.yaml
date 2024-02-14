@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/End-to-End-cnnclassification-using-mlflow-DVC/mlruns/0/9f7179fbb5454032a7b4cd46c717ebe4/artifacts
+end_time: 1707847504847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f7179fbb5454032a7b4cd46c717ebe4
+run_name: dazzling-robin-394
+run_uuid: 9f7179fbb5454032a7b4cd46c717ebe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707847481111
+status: 3
+tags: []
+user_id: HP

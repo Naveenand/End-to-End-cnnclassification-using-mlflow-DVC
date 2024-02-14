@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/End-to-End-cnnclassification-using-mlflow-DVC/mlruns/0/faf5e5be9a55468398d9d118ca407c7c/artifacts
+end_time: 1707847841628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faf5e5be9a55468398d9d118ca407c7c
+run_name: brawny-yak-810
+run_uuid: faf5e5be9a55468398d9d118ca407c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707847826152
+status: 3
+tags: []
+user_id: HP
